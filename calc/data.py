@@ -1,0 +1,13 @@
+datas=[{
+    'id'=1,
+    'course':'django'
+},
+{
+    'id'=2,
+    'course':'React'
+},
+{
+    'id'=3,
+    'course':'Angular'
+} 
+]
